@@ -1,0 +1,16 @@
+pandas
+matplotlib
+wordcloud
+networkx
+tqdm
+python-dotenv
+glob2
+os
+re
+datetime
+collections
+concurrent.futures
+warnings
+ast
+langchain
+genai
